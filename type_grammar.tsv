@@ -1,0 +1,9 @@
+	e	<e,t>	<et,et>	v	<v,t>	<e,vt>	<vt,t>	N/A
+e	e	t				<v,t>		e
+<e,t>	t	<e,t>	<e,t>					<e,t>
+<et,et>		<e,t>	<et,et>					<et,et>
+v				v	t			v
+<v,t>				t	<v,t>		t	<v,t>
+<e,vt>	<v,t>					<e,vt>		<e,vt>
+<vt,t>					t		<vt,t>	<vt,t>
+N/A	e	<e,t>	<et,et>	v	<v,t>	<e,vt>	<vt,t>	N/A
